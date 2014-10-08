@@ -1,5 +1,14 @@
 #!/usr/bin/python
 
+"""
+python script to simulate phenotypes
+input data: haplotypes, legend
+output data: simulated phenotypes
+
+author: huwenbo shi
+"""
+
+
 from optparse import OptionParser
 import sys
 import math
